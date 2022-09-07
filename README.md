@@ -8,4 +8,5 @@
 - Creating Features
 - Clustering With K-Means
 - PCA
+- Classification Algorithms in Machine Learning (SVM, MPL, Naive Bayes..)
 
